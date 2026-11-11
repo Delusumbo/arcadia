@@ -1,0 +1,33 @@
+*{
+    margin: 0px; 
+}
+
+
+header{
+    display: flex;
+     justify-content: space-between; 
+     text-align: center;
+    background-color: antiquewhite;
+    padding: 10px 40px 10px 40px;
+nav{
+    ul{
+        display: flex;
+        gap: 50px;
+        list-style: none;
+        a{
+            text-decoration: none;
+        }
+    }
+}
+.stop{
+    background-color: blue;
+    border-radius: 9px;
+    padding: 9px 15px;
+    list-style: none;
+
+    a{
+        color: white;
+        text-decoration: none;
+    }
+
+}

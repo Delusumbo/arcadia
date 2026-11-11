@@ -1,0 +1,6 @@
+body{
+    background-color: black ; gap: 20px; color: white; display: flex;
+}
+img{
+    display: flex; align-items: center;justify-content: center; gap: 40px;
+}
